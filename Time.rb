@@ -11,5 +11,5 @@ get '/1' do
 end
 
 get '/1/2' do
-  "<h2>What is the current time?</h2>"
+  "<h10>What is the current time?</h10>"
 end
