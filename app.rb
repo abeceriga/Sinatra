@@ -13,4 +13,4 @@ end
 get '/hello/:name' do
   "<h1>Hello, #{params[:name]}!</h1><br>It's #{Time.now} at the hello - name route!"
 end
-  
+

@@ -1,2 +1,2 @@
-require './app.rb'
+require './Time.rb'
 run Sinatra::Application
